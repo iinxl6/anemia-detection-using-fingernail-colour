@@ -18,7 +18,7 @@ Two datasets were used:
 - **Adult (unlabeled):** adult hand images with metadata (Hb level) and nail bounding boxes, but without direct anemia class labels.
 
 Due to size limits, the datasets are not stored in this repository.
-Download (Google Drive): <(https://drive.google.com/drive/folders/1J5pEaBOUA1FJaThe0BH7ewyolzavyzB-?usp=sharing)>
+Download (Google Drive): [Dataset](https://drive.google.com/drive/folders/1J5pEaBOUA1FJaThe0BH7ewyolzavyzB-?usp=sharing)
 
 ## What’s inside this repo
 - `notebooks/` – step-by-step pipeline (preprocessing → feature learning → pseudo-labeling → training → evaluation)
